@@ -109,7 +109,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The dashboard opens at **http://localhost:8501**
+The dashboard opens at **https://european-bank-retention-analytics-shakeer-shaik.streamlit.app/**
 
 ---
 
