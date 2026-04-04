@@ -182,12 +182,11 @@ Constructive ideas help make the analysis sharper and more useful for real-world
 ## 👨‍💻 Author
 
 **Shakeer Shaik**
+
 Data Science & Analytics · Streamlit · Plotly · Python
+
 *Customer Engagement Analytics · Behavioral Segmentation · Retention Strategy*
 
 ---
 
-## 🏛 Unified Mentor
 
-**European Central Bank**
-*This project was developed under the European Central Bank's Customer Engagement & Product Utilization Analytics for Retention Strategy program.*
